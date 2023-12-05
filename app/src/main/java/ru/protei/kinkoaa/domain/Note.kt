@@ -13,5 +13,4 @@ class Note (
         return text
     }
 
-
 }
